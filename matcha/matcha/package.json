@@ -42,7 +42,7 @@
     "nuxt-socket-io": "^2.0.3",
     "path": "^0.12.7",
     "pg-promise": "^10.11.1",
-    "socket.io": "^4.4.1",
+    "socket.io": "^4.5.4",
     "swiper": "^8.0.7",
     "uuid": "^8.3.2",
     "vue": "^2.6.14",
